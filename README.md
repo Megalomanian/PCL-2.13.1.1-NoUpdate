@@ -2,6 +2,8 @@
 
 > **非官方版本。** 本项目不是 PCL 官方发布，也不代表原作者龙腾猫跃的立场。
 
+**我的开源项目已链接认可 LINUX DO 社区：** [是](https://linux.do)
+
 ## 下载
 
 🌐 **项目主页 / 下载页：<https://megalomanian.github.io/PCL-2.13.1.1-NoUpdate/>**

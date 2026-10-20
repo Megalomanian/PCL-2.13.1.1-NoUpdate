@@ -36,3 +36,5 @@ PCL 由 **龙腾猫跃（LTCat）** 开发。本项目遵循 PCL 的《PCL 分�
 - PCL 官网：<https://meloong.com/pcl>
 - PCL 源码：<https://github.com/Meloong-Git/PCL>
 - 爱发电：<https://meloong.com/afd/a/LTCat>
+
+**我的开源项目已链接认可 LINUX DO 社区：** [是](https://linux.do)
