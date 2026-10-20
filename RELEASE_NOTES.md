@@ -6,13 +6,13 @@ PCL 2.99.0.0 因政策与合规原因下架了 MC 下载功能。本版本基于
 
 ### 下载
 
-- `PCL-2.13.1.1-NoUpdate.exe` — 直接下载后重命名为 `Plain Craft Launcher 2.exe`，覆盖原文件即可。
-- `PCL-2.13.1.1-NoUpdate.zip` — 包含 exe、说明和许可证，解压后覆盖。
+- [直接下载 exe（文件名：`Plain Craft Launcher 2.exe`）](https://megalomanian.github.io/PCL-2.13.1.1-NoUpdate/downloads/Plain%20Craft%20Launcher%202.exe) — 文件名已正确，可直接覆盖原文件。
+- `PCL-2.13.1.1-NoUpdate.zip` — 包含 `Plain Craft Launcher 2.exe`、说明和许可证，解压后覆盖。
 
 ### 安装
 
 1. 完全退出 PCL，确认任务管理器中没有 PCL 进程。
-2. 把 exe 重命名为 `Plain Craft Launcher 2.exe`。
+2. 下载的 exe 文件名已经是 `Plain Craft Launcher 2.exe`，不需要改名。
 3. 拖入原 PCL 文件夹，选择“替换目标中的文件”。
 4. 启动。原配置、账号和游戏目录会继续使用。
 

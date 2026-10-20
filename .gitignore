@@ -1,5 +1,6 @@
 *.exe
 *.zip
+!/docs/downloads/Plain Craft Launcher 2.exe
 patcher/bin/
 patcher/obj/
 .vs/

@@ -7,12 +7,12 @@
 🌐 **项目主页 / 下载页：<https://megalomanian.github.io/PCL-2.13.1.1-NoUpdate/>**
 
 - **[下载 PCL 2.13.1.1 NoUpdate（zip，推荐）](https://github.com/Megalomanian/PCL-2.13.1.1-NoUpdate/releases/latest/download/PCL-2.13.1.1-NoUpdate.zip)**
-- [直接下载 exe](https://github.com/Megalomanian/PCL-2.13.1.1-NoUpdate/releases/latest/download/PCL-2.13.1.1-NoUpdate.exe)
+- [直接下载 exe（文件名：`Plain Craft Launcher 2.exe`）](https://megalomanian.github.io/PCL-2.13.1.1-NoUpdate/downloads/Plain%20Craft%20Launcher%202.exe)
 
 ## 安装（直接覆盖官方 PCL）
 
 1. **完全退出 PCL**：关闭 PCL 窗口，并确认任务管理器中没有 PCL 进程。
-2. 下载 `PCL-2.13.1.1-NoUpdate.exe`，把它重命名为 `Plain Craft Launcher 2.exe`。
+2. 下载 exe，文件名已经是 `Plain Craft Launcher 2.exe`，不需要改名。
 3. 将文件拖入原 PCL 所在文件夹，选择“替换目标中的文件”。
 4. 双击 `Plain Craft Launcher 2.exe` 启动。
 
@@ -33,7 +33,7 @@ PCL 2.99.0.0 因政策与合规原因下架了 MC 下载功能。本版本基于
 
 ## 文件与校验
 
-- 下载文件：`PCL-2.13.1.1-NoUpdate.exe`（覆盖时重命名为 `Plain Craft Launcher 2.exe`）
+- 下载文件：`Plain Craft Launcher 2.exe`（直接下载或 zip 内文件，可直接覆盖）
 - SHA256：`46815B33B11DCC46738115DCEE5560BB8682F553D196DB2A322434C8D67DC24B`
 - 原始版本：PCL 2.13.1.1 正式版（2026-08-06，2.99.0.0 之前的最后一个稳定版）
 
