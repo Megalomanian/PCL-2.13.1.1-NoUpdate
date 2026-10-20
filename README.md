@@ -5,7 +5,7 @@
 ## 下载
 
 - **[下载 PCL 2.13.1.1 NoUpdate（zip，推荐）](https://github.com/Megalomanian/PCL-2.13.1.1-NoUpdate/releases/latest/download/PCL-2.13.1.1-NoUpdate.zip)**
-- [直接下载 exe](https://github.com/Megalomanian/PCL-2.13.1.1-NoUpdate/releases/latest/download/Plain%20Craft%20Launcher%202.exe)
+- [直接下载 exe](https://github.com/Megalomanian/PCL-2.13.1.1-NoUpdate/releases/latest/download/Plain.Craft.Launcher.2.exe)
 
 下载后解压到独立文件夹，不要覆盖官方 PCL 2.99 的文件。
 
