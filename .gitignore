@@ -1,0 +1,5 @@
+*.exe
+*.zip
+patcher/bin/
+patcher/obj/
+.vs/
