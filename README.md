@@ -4,10 +4,21 @@
 
 ## 下载
 
-- **[下载 PCL 2.13.1.1 NoUpdate（zip，推荐）](https://github.com/Megalomanian/PCL-2.13.1.1-NoUpdate/releases/latest/download/PCL-2.13.1.1-NoUpdate.zip)**
-- [直接下载 exe](https://github.com/Megalomanian/PCL-2.13.1.1-NoUpdate/releases/latest/download/Plain.Craft.Launcher.2.exe)
+🌐 **项目主页 / 下载页：<https://megalomanian.github.io/PCL-2.13.1.1-NoUpdate/>**
 
-下载后解压到独立文件夹，不要覆盖官方 PCL 2.99 的文件。
+- **[下载 PCL 2.13.1.1 NoUpdate（zip，推荐）](https://github.com/Megalomanian/PCL-2.13.1.1-NoUpdate/releases/latest/download/PCL-2.13.1.1-NoUpdate.zip)**
+- [直接下载 exe](https://github.com/Megalomanian/PCL-2.13.1.1-NoUpdate/releases/latest/download/PCL-2.13.1.1-NoUpdate.exe)
+
+## 安装（直接覆盖官方 PCL）
+
+1. **完全退出 PCL**：关闭 PCL 窗口，并确认任务管理器中没有 PCL 进程。
+2. 下载 `PCL-2.13.1.1-NoUpdate.exe`，把它重命名为 `Plain Craft Launcher 2.exe`。
+3. 将文件拖入原 PCL 所在文件夹，选择“替换目标中的文件”。
+4. 双击 `Plain Craft Launcher 2.exe` 启动。
+
+覆盖后，原有的配置、账号、游戏目录和 `.minecraft` 都会继续使用，不需要重新设置。
+
+如果替换时提示“文件正在使用”，说明 PCL 还没有完全退出，请在任务管理器中结束 PCL 进程后重试。
 
 ## 背景
 
@@ -22,16 +33,9 @@ PCL 2.99.0.0 因政策与合规原因下架了 MC 下载功能。本版本基于
 
 ## 文件与校验
 
-- `Plain Craft Launcher 2.exe`（PCL 2.13.1.1，第三方修改版）
+- 下载文件：`PCL-2.13.1.1-NoUpdate.exe`（覆盖时重命名为 `Plain Craft Launcher 2.exe`）
 - SHA256：`46815B33B11DCC46738115DCEE5560BB8682F553D196DB2A322434C8D67DC24B`
 - 原始版本：PCL 2.13.1.1 正式版（2026-08-06，2.99.0.0 之前的最后一个稳定版）
-
-## 使用方法
-
-1. 将压缩包解压到一个独立文件夹，**不要覆盖官方 PCL 2.99 的文件**。
-2. 先退出正在运行的 PCL（PCL 使用单实例互斥锁，同时运行会提示“另一个 PCL 实例正在运行”）。
-3. 双击 `Plain Craft Launcher 2.exe` 启动。
-4. 首次启动后可在“设置”中把游戏目录、Java、账号等配置为常用值，或直接复用原有 `.minecraft` 目录。
 
 ## 补丁说明
 
