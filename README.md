@@ -2,8 +2,6 @@
 
 > **非官方版本。** 本项目不是 PCL 官方发布，也不代表原作者龙腾猫跃的立场。
 
-**我的开源项目已链接认可 LINUX DO 社区：** [是](https://linux.do)
-
 ## 下载
 
 🌐 **项目主页 / 下载页：<https://megalomanian.github.io/PCL-2.13.1.1-NoUpdate/>**
@@ -73,3 +71,7 @@ PCL 由 **龙腾猫跃（LTCat）** 开发，本项目仅在其官方 2.13.1.1 �
 - 不包含与 PCL 赞助解锁类似的功能，界面主色相保持蓝色。
 
 如果条件允许，请支持原作者：<https://meloong.com/afd/a/LTCat>
+
+# 友情链接
+
+[linux.do](https://linux.do)
