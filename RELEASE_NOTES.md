@@ -9,6 +9,8 @@ PCL 2.99.0.0 因政策与合规原因下架了 MC 下载功能。本版本基于
 - [直接下载 exe（文件名：`Plain Craft Launcher 2.exe`）](https://megalomanian.github.io/PCL-2.13.1.1-NoUpdate/downloads/Plain%20Craft%20Launcher%202.exe) — 文件名已正确，可直接覆盖原文件。
 - `PCL-2.13.1.1-NoUpdate.zip` — 包含 `Plain Craft Launcher 2.exe`、说明和许可证，解压后覆盖。
 
+> 注：GitHub Release 会自动把附件名中的空格替换成点，因此 Release 中的 exe 附件显示为 `Plain.Craft.Launcher.2.exe`。需要精确文件名时，请使用上面的下载页链接或 zip。
+
 ### 安装
 
 1. 完全退出 PCL，确认任务管理器中没有 PCL 进程。
